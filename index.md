@@ -9,7 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
 # Sebastian Rodriguez's First CS193 Homework
 
@@ -23,7 +22,7 @@ Syntax highlighted code block
 ### Numbered List of Favorite Things
 
 1. the homework assignments have clear instructions 
-2. Lectures are not in the early morning
+2. Lectures are not in the morning
 
 **Bold** and _Italic_ and `Code` text
 
