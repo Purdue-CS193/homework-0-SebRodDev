@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Sebastian Rodriguez's First CS193 Homework
+
+- I like that CS193 has no exams!
+- CS193 does not have any +/- grades which is awesome.
+- Students run Cs193 so they know what our struggles are like.
+- The lecture hall is a lot smaller than a lot of my other classes.
+
+## Numbered List of Favorite Things
+
+1. The homework assignments have clear instructions
+2. lectures are not in the morning
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,28 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-
-# Sebastian Rodriguez's First CS193 Homework
-
-## Sebastian's Favorite Things about CS193!
-
-- I like that CS193 has no exams!
-- CS193 does not have any +/- which is awesome.
-- students run CS193 so they know what our struggles are like.
-- The lecture hall is a lot smaller than a lot of my other classes.
-
-### Numbered List of Favorite Things
-
-1. the homework assignments have clear instructions 
-2. Lectures are not in the morning
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for...
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
