@@ -7,8 +7,8 @@
 
 ## Experimental Numbered List of Favorite Things
 
-1. The homework assignments have clear instructions
-2. lectures are not in the morning
+1. The homework assignments have clear instructions.
+2. Lectures are not in the morning.
 
 
 
