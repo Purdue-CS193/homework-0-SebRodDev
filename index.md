@@ -5,7 +5,7 @@
 - Students run Cs193 so they know what our struggles are like.
 - The lecture hall is a lot smaller than a lot of my other classes.
 
-## Numbered List of Favorite Things
+## Experimental Numbered List of Favorite Things
 
 1. The homework assignments have clear instructions
 2. lectures are not in the morning
